@@ -1,4 +1,4 @@
-p001;edad;MMSE;MoCA;Volumen_hipocampo;años_dx;actividad_fisica;%_memoria
+p001;edad;MMSE;MoCA;Volumen_hipocampo;annos_dx;actividad_fisica;memoria
 p002;80;17;20;4,02;6;moderada;10
 p003;85;21;21;;8;alto;20
 p004;86;18;18;;10;leve;30
